@@ -53,4 +53,6 @@ Exactly what it says on the tin. We will probably subdivide this into ML, alignm
 - https://arxiv.org/abs/2303.12712 - Sparks of Artificial General Intelligence: Early experiments with GPT-4
 - https://arxiv.org/abs/2303.11366 - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - https://ai.facebook.com/blog/robots-learning-video-simulation-artificial-visual-cortex-vc-1/ - Robots that learn from videos of human activities and simulated interactions
+- https://arxiv.org/abs/2304.11490 - Boosting Theory-of-Mind Performance in Large Language Models via Prompting
+
 
