@@ -10,3 +10,9 @@
 - https://infranodus.com/
 - https://www.adept.ai/
 - https://podcast.adobe.com/enhance
+- https://pipegpt.com/
+
+## Python Modules
+
+- https://www.trychroma.com/
+- 
