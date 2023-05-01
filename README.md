@@ -26,6 +26,23 @@ Generally speaking, these are production-ready services with a professional or e
 - https://www.trychroma.com/ - Local vector DB like SQLITE but for semantic search
 - https://python.langchain.com/en/latest/
 - https://github.com/logspace-ai/langflow
+- https://gpt-index.readthedocs.io/en/latest/
+
+## GitHub Repos
+
+Cool experiments and such
+
+- https://github.com/Mattie/cataclysm - Metacoding (aka it figures out the function code just from the name of the function). Psuedocode straight into live code.
+- https://github.com/KernAlan/ChroniclerAI - ChroniclerAI is a desktop application that records, transcribes, and summarizes audio using the OpenAI GPT-3.5-turbo model. The application is built in C# with XAML for the user interface.
+- https://github.com/lightaime/camel - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- https://github.com/reworkd/AgentGPT - AgentGPT
+- https://github.com/microsoft/TaskMatrix - Microsoft TaskMatrix TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting.
+- https://github.com/DataBassGit/HiAGI - Heuristic Imperative AGI project, inspired by AutoGPT and BabyAGI
+- https://github.com/Significant-Gravitas/Auto-GPT - Original AutoGPT experiment
+- https://github.com/antimatter15/alpaca.cpp - Run a ChatGPT like model locally
+
+
+
 
 ## Scientific Papers
 
