@@ -54,5 +54,8 @@ Exactly what it says on the tin. We will probably subdivide this into ML, alignm
 - https://arxiv.org/abs/2303.11366 - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - https://ai.facebook.com/blog/robots-learning-video-simulation-artificial-visual-cortex-vc-1/ - Robots that learn from videos of human activities and simulated interactions
 - https://arxiv.org/abs/2304.11490 - Boosting Theory-of-Mind Performance in Large Language Models via Prompting
+- https://arxiv.org/abs/1901.00064 - Impossibility and Uncertainty Theorems in AI Value Alignment (or why your AGI should not have a utility function)
+- https://arxiv.org/abs/2102.03896 - Consequences of Misaligned AI
+
 
 
