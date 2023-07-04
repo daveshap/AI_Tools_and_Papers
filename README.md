@@ -56,6 +56,6 @@ Exactly what it says on the tin. We will probably subdivide this into ML, alignm
 - https://arxiv.org/abs/2304.11490 - Boosting Theory-of-Mind Performance in Large Language Models via Prompting
 - https://arxiv.org/abs/1901.00064 - Impossibility and Uncertainty Theorems in AI Value Alignment (or why your AGI should not have a utility function)
 - https://arxiv.org/abs/2102.03896 - Consequences of Misaligned AI
-
+- https://arxiv.org/abs/2306.03809 - LLMs enable untrained scientists to potentially create pandemic-level pathogens
 
 
